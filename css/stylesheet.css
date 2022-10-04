@@ -12,3 +12,15 @@
 #Ottawa{
     color:blue
 }
+
+.size{
+    padding:auto 5px;
+    border-top:2px solid black;
+    border-bottom:4px solid grey
+}
+.pgraph{
+    border-width:10px; 
+    border-style:ridge;
+    border-color:lightgreen;
+    margin:5px
+}
